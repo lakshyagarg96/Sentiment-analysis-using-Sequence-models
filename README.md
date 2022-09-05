@@ -1,5 +1,5 @@
 # Sentiment-analysis-using-Sequence-models
-In this notebook we will apply different sequence architectures starting from RNN, LSTM, GRU, and bi directional RNN to predict the sentiment associated to a sentence. 
+In this notebook we will apply different sequence architectures starting from RNN, LSTM, GRU, and bi directional RNN to predict the sentiment associated to a sentence. Either positive class 1 or neutral class 0
 
 An open source UCI dataset is used to train the model link: https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences
 
